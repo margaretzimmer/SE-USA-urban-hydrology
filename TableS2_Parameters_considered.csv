@@ -1,0 +1,72 @@
+﻿Parameters Considered,,Source
+Precipitation,Fall precip,PRISM Gridded Climate Data
+,Winter precip,PRISM Gridded Climate Data
+,Spring precip,PRISM Gridded Climate Data
+,Summer precip,PRISM Gridded Climate Data
+,Total precip,PRISM Gridded Climate Data
+Biophysical,Basin size (km2),Bradley et al. 2019
+,Watershed slope,Bradley et al. 2019
+,NHDPv2_FlowLineSlope,Bradley et al. 2019
+,Permeability,Bradley et al. 2019
+,Sand Content,Bradley et al. 2019
+,Stream Density,Bradley et al. 2019
+,Pct Soils Hydrologic Group A,"SSURGO, NRCS"
+,Pct Soils Hydrologic Group A/D,"SSURGO, NRCS"
+,Pct Soils Hydrologic Group B,"SSURGO, NRCS"
+,Pct Soils Hydrologic Group B/D,"SSURGO, NRCS"
+,Pct Soils Hydrologic Group C,"SSURGO, NRCS"
+,Pct Soils Hydrologic Group C/D,"SSURGO, NRCS"
+,Pct Soils Hydrologic Group D,"SSURGO, NRCS"
+,Pct Soils Hydrologic Group A/D+B/D+C/D+D,"SSURGO, NRCS"
+,PctHydrGrp_urban,"SSURGO, NRCS"
+,PctHydrGrp_water,"SSURGO, NRCS"
+,PctHydrGrp_dam,"SSURGO, NRCS"
+,PctHydrGrp_other,"SSURGO, NRCS"
+Riparian Land Use,Riparian developed open,Bradley et al. 2019
+,Riparian developed low,Bradley et al. 2019
+,Riparian developed medium,Bradley et al. 2019
+,Riparian developed high,Bradley et al. 2019
+,Riparian deciduous,Bradley et al. 2019
+,Riparian evergreen,Bradley et al. 2019
+,Riparian mixed forest,Bradley et al. 2019
+,Riparian grassland,Bradley et al. 2019
+,Riparian pasture/hay,Bradley et al. 2019
+,Riparian agriculture,Bradley et al. 2019
+,Riparian forest,Bradley et al. 2019
+,Riparian wetlands,Bradley et al. 2019
+,Riparian canopy,Bradley et al. 2019
+Riparian Urbanization,Riparain urban LMH,Bradley et al. 2019
+,Riparian urban total,Bradley et al. 2019
+,Riparian impervious,Bradley et al. 2019
+Watershed Land Use,Deciduous,Bradley et al. 2019
+,Evergreen,Bradley et al. 2019
+,Mixed Forest,Bradley et al. 2019
+,Shrub/Scrub,Bradley et al. 2019
+,Grassland,Bradley et al. 2019
+,Pasture/Hay,Bradley et al. 2019
+,Cultivated crops,Bradley et al. 2019
+,Woody Wetlands,Bradley et al. 2019
+,Emergent Wetlands,Bradley et al. 2019
+,Agriculture Total,Bradley et al. 2019
+,Forest Total,Bradley et al. 2019
+,Wetlands Total,Bradley et al. 2019
+,Canopy,Bradley et al. 2019
+,National Wetlands Inventory,Bradley et al. 2019
+,Dam Density,Bradley et al. 2019
+,Irrigated_MODIS2007,Bradley et al. 2019
+Watershed Urbanization,Developed open,Bradley et al. 2019
+,Developed low,Bradley et al. 2019
+,Developed medium,Bradley et al. 2019
+,Developed high,Bradley et al. 2019
+,Urban LMH,Bradley et al. 2019
+,Urban Total,Bradley et al. 2019
+,Imperviousness,Bradley et al. 2019
+,Population Density,Bradley et al. 2019
+,Housing Density,Bradley et al. 2019
+,Road Density,Bradley et al. 2019
+,WWTP+SEWER_DESIGNFLOW_MGD,Bradley et al. 2019
+,WWTP+SEWER_DESIGNFLOW_MGD-SQKM,Bradley et al. 2019
+,WWTP_Count_Total,Bradley et al. 2019
+,WWTP_DesignFlow_MGD_Total,Bradley et al. 2019
+,Blank_SewerPermit_Count,Bradley et al. 2019
+,WWTP+SEWER_COUNT_TOTAL,Bradley et al. 2019
